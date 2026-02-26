@@ -11,7 +11,6 @@ fi
 # export PATH=$HOME/bin:$HOME/.local/bin:/usr/local/bin:$PATH
 # Path to your Oh My Zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
-source $ZSH/oh-my-zsh.sh
 export ZATHURA_PLUGIN_PATH=/opt/homebrew/lib/zathura
 export DISPLAY=/private/tmp/com.apple.launchd.r3KajX668j/org.xquartz:0
 xport GTK_THEME=Adwaita:dark
